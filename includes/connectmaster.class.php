@@ -1,7 +1,6 @@
 <?php
 /**
  * WHMCS SSO connect master class
- * @author Zingiri
  * @package SSO_WHMCS
  *
  */
