@@ -5,8 +5,8 @@ function sso_config() {
 	$configarray = array(
     "name" => "Single-sign-on",
     "description" => "Single-sign-on accross multiple domains. Currently supports Wordpress & WHMCS.<br /><strong>Notice</strong>: single-sign-on is disabled when you are logged in as an admin in WHMCS or using the 'Login as Client' facility.",
-	"version" => "1.0.3",
-    "author" => "Zingiri",
+	"version" => "1.0.4",
+    "author" => "Choppedcode",
     "language" => "english",
     "fields" => array(
 	"sso_key" => array("FriendlyName" => "API key", "Type" => "text", "Size" => "45", "Description" => "The API key is an arbitrary string of characters you can generate yourself. It has to be unique accross all participating domains."),

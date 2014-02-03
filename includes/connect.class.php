@@ -2,7 +2,6 @@
 require(dirname(__FILE__).'/connectmaster.class.php');
 /**
  * WHMCS SSO connect class
- * @author Zingiri
  * @package SSO_WHMCS
  *
  */

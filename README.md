@@ -10,6 +10,9 @@ Install like a normal WHMCS addon.
 
 ## Changelog
 
+### 1.0.4
+* Updated author
+
 ### 1.0.3
 * Hosted code on Github
 
